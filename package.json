@@ -33,7 +33,7 @@
     "directions plugin"
   ],
   "dependencies": {
-    "@mapbox/mapbox-gl-directions": "^4.0.3",
+    "@mapbox/mapbox-gl-directions": "^4.1.1",
     "prop-types": "^15.7.2"
   },
   "peerDependencies": {
@@ -45,7 +45,7 @@
     "eslint-plugin-react": "^7.20.3",
     "husky": "^4.2.5",
     "lint-staged": "^10.2.11",
-    "microbundle": "^0.12.2",
+    "microbundle": "^0.15.1",
     "prettier": "^2.0.5"
   },
   "husky": {
