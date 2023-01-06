@@ -33,7 +33,7 @@
     "directions plugin"
   ],
   "dependencies": {
-    "@mapbox/mapbox-gl-directions": "^4.0.3",
+    "@mapbox/mapbox-gl-directions": "^4.1.1",
     "prop-types": "^15.7.2"
   },
   "peerDependencies": {
